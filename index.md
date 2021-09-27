@@ -1,4 +1,3 @@
-theme: 
 title: Welcome to Lidya's hompage !
 
 ## Welcome to GitHub Pages
